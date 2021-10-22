@@ -1,8 +1,8 @@
-Hey christy! 
+This was the first major C++ program i made.
 
-Liam Henry 
-cit:020625
+It was for an assesment item i completed while studying at the Canberra Institute of Technology. 
 
-Im using codeblocks so you might have to create a visual studio project, sorry about this. 
+It's rough but it's a momento for me.
 
-Thank you. 
+
+
